@@ -1,0 +1,7 @@
+Bill Details
+Pineapple                 : 102.48
+Apple                     : 90.50
+Mango                     : 60.60
+Orange                    : 89.45
+Tips                      : 10.52
+Total                     : 353.55
